@@ -1,5 +1,10 @@
 # Launguage_Translator
 A language Translation Application  built with the help of google cloud language translation api
+
+
+
+
+
 Introduction:
 Welcome to our Language Translation Web Project, a dynamic platform built using HTML, CSS, JavaScript, and Google Translation API. Our goal is to facilitate seamless translation between different languages with added speech functionality for improved accessibility.
 
